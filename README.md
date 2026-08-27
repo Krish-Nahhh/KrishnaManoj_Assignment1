@@ -1,4 +1,4 @@
-# Data Visualization Assignments
+# VDUI Assignments
 
 This repository contains my completed assignments for the VDUI (UE24CS342AA9) course.
 
@@ -9,4 +9,4 @@ This repository contains my completed assignments for the VDUI (UE24CS342AA9) co
 - **PPT 8** — Relationships, Correlation, and Trends
 - **PPT 9** — Chart Selection and Image Formats
 
-All assignments were completed using Python and Jupyter/Google Colab.
+All assignments were completed using Python and Google Colab.
