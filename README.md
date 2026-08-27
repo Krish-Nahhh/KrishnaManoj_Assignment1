@@ -1,6 +1,6 @@
 # Data Visualization Assignments
 
-This repository contains my completed assignments for the Data Visualization course.
+This repository contains my completed assignments for the VDUI (UE24CS342AA9) course.
 
 ## Contents
 
