@@ -1,13 +1,10 @@
 # Data Visualization Assignments
 
-This repository contains my completed assignment 1 for the VDUI (UE24CS342AA9) course.
+This repository contains my completed assignment 1, 2 for the VDUI (UE24CS342AA9) course.
 
 ## Contents
-- **PPT 3** — Data Visualization Fire Drill
-- **PPT 6** — Colour Theory in Data Visualization
-- **PPT 7** — Distribution, Density, and Proportions
-- **PPT 8** — Relationships, Correlation, and Trends
-- **PPT 9** — Chart Selection and Image Formats
+- **UNIT 1** - ppt 3, 6, 7, 8, 9
+- - **UNIT 1** - ppt 1, 4, 5, 7
 
 ## Tools Used
 
